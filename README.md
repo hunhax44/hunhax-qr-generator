@@ -1,23 +1,39 @@
-# HunHax QR Kod Oluşturucu
+# HunHax – Ücretsiz Online Araçlar
 
-🚀 **Ücretsiz, hızlı ve modern QR kod oluşturucu**
+🚀 **QR kod, barkod, şifre, ZIP, dosya dönüştürücü ve daha fazlası. Hepsi ücretsiz, hızlı ve kayıt gerektirmez.**
 
-[HunHax.com](https://hunhax.com) ile metin, URL, WiFi, Email, SMS, Kartvizit ve daha fazlası için QR kod oluşturun.
+[HunHax.com](https://hunhax.com), günlük işlerinizi kolaylaştıran ücretsiz online araçları tek yerde toplar.
 
-## Özellikler
+## Araçlar
 
-- ⚡ Saniyeler içinde QR kod oluştur
+| Araç | Ne işe yarar? |
+|------|---------------|
+| **QR Kod Oluşturucu** | Metin, URL, WiFi, E-posta, SMS ve Kartvizit için QR kod üretir |
+| **Barkod Oluşturucu** | Farklı formatlarda barkod oluşturur |
+| **Şifre Oluşturucu** | Güçlü ve rastgele şifreler üretir |
+| **ZIP Aracı** | Dosyaları arşivler veya arşivden çıkarır |
+| **Dosya Dönüştürücü** | Dosyaları farklı formatlara dönüştürür |
+| **Videodan Ses Çıkar** | Videodan ses (MP3) ayıklar |
+
+## QR Kod Oluşturucu Özellikleri
+
+- ⚡ Saniyeler içinde QR kod oluşturma
 - 🎨 Renk ve boyut özelleştirme
 - 📱 Tüm cihazlarda çalışır
-- 💾 PNG, JPG, SVG, PDF, WEBP formatlarında indir
+- 💾 PNG, JPG, SVG, PDF, WEBP formatlarında indirme
 - ⭐ Favori kaydetme
 - 📋 QR geçmişi
 
-## Kullanım
+## Nasıl Kullanılır?
 
 1. [HunHax.com](https://hunhax.com) adresine gidin
-2. İçeriğinizi girin (URL, metin, WiFi, vb.)
-3. QR kodunuzu oluşturun ve indirin
+2. İhtiyacınız olan aracı seçin
+3. İçeriğinizi girin veya dosyanızı yükleyin
+4. Sonucu oluşturun ve indirin
+
+## Anahtar Kelimeler
+
+`qr kod oluşturucu` · `ücretsiz qr kod` · `barkod oluşturucu` · `şifre oluşturucu` · `zip aracı` · `dosya dönüştürücü` · `videodan ses çıkar` · `ücretsiz online araçlar`
 
 ## Lisans
 
